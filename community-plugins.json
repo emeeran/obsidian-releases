@@ -18871,4 +18871,11 @@
     "description": "Sync newsletters and kindle highlights from your newslog.me daily bundles.",
     "repo": "protoavatar/obsidian-newsletters"
   }
+  {
+  "id": "yt-clipper",
+  "name": "YouTube Clipper",
+  "author": "Meeran E Mandhini",
+  "description": "AI-powered YouTube video clipper that extracts key insights and generates structured notes using Google Gemini, Groq, HuggingFace, OpenRouter, or Ollama",
+  "repo": "emeeran/yt-clipper"
+}
 ]
