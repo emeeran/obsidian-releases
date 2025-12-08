@@ -18870,5 +18870,12 @@
     "author": "protoavatar",
     "description": "Sync newsletters and kindle highlights from your newslog.me daily bundles.",
     "repo": "protoavatar/obsidian-newsletters"
-  }
+  },
+  {
+  "id": "note-encryptor",
+  "name": "Note Encryptor",
+  "author": "Meeran E Mandhini",
+  "description": "Encrypt individual notes with AES-256-GCM encryption",
+  "repo": "emeeran/obsidian-encrypt-decrypt"
+}
 ]
